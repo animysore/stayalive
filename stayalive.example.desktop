@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=pkexec /usr/bin/python3 /home/user/stayalive/stayalive.py
+Name=StayAlive
+Icon=/home/user/stayalive/stayalive.png
+Comment=StayAlive by typing a character every X seconds
